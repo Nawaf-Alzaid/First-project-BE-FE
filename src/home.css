@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 90px;
+    background: #27485d;
+    padding-bottom: px;
+
+}
+
+.text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  color:#27485d  ;
+  font-size: 40px;
+  font-weight: 500;  
+}
+
+.input img{
+  margin: 0px 25px;  
+}
+
+

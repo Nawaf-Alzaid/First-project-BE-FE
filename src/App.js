@@ -1,11 +1,19 @@
 import logo from './logo.svg';
 import './App.css';
-import LoginSignup from './Components/LoginSignup/LoginSignup';
+// import SignUp from './SignUp';
+// import LogIn from './LogIn';
+// import Password from './Password';
+import './homepage';
 
 function App() {
   return (
     <div>
-      <LoginSignup/>
+{/*       
+      <SignUp/>
+      <LogIn/>
+      <Password></Password> */
+      // <ButtonAppBar></ButtonAppBar>
+       }
     </div>
   );
 }
